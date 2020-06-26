@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Map\spriteAnimation\wav.h(20,33): warning C4312: 'type cast': conversion from 'DWORD' to 'PWAV' of greater size
+C:\Users\User\source\repos\Map\spriteAnimation\wav.h(152,6): warning C4311: 'type cast': pointer truncation from 'void (__cdecl *)(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' to 'ULONG'
+C:\Users\User\source\repos\Map\spriteAnimation\wav.h(152,6): warning C4302: 'type cast': truncation from 'void (__cdecl *)(HWAVEOUT,UINT,DWORD,DWORD,DWORD)' to 'ULONG'
+C:\Users\User\source\repos\Map\spriteAnimation\wav.h(152,6): warning C4311: 'type cast': pointer truncation from 'PWAV' to 'ULONG'
+C:\Users\User\source\repos\Map\spriteAnimation\wav.h(152,6): warning C4302: 'type cast': truncation from 'PWAV' to 'ULONG'
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(210,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(212,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(214,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(216,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(263,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(273,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(326,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(328,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Map\spriteAnimation\RGBApixMap.h(261,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\User\source\repos\Map\spriteAnimation\Turtle.h(67,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Map\spriteAnimation\Source.cpp(33,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\Source.cpp(35,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\source\repos\Map\spriteAnimation\Source.cpp(69,21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\source\repos\Map\spriteAnimation\Source.cpp(69,16): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  spriteAnimation.vcxproj -> C:\Users\User\source\repos\Map\x64\Debug\spriteAnimation.exe
